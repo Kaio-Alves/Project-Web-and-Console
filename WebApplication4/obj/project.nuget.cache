@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ek2t6KGTafeEc37ymzB1z22CPKb77U26xUYX1nV0qIjCkYaepGGWE/NDoErZ38DReDp+L+mHRT4tdeGrp/O18g==",
+  "dgSpecHash": "msxtKnx+rWO2vIGy0lmmdh7sQksKwZ7yVnyFiLCaNkweESYOByX3qm+vdQjB7VmsccRcikhBuinhiBW7WHDkBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaio.torres\\OneDrive - Certisign Certificadora Digital SA\\Documentos\\Git\\WebApplication4\\ShoppingCart.csproj",
+  "projectFilePath": "C:\\Users\\kaio.torres\\OneDrive - Certisign Certificadora Digital SA\\Documentos\\Git\\ViaHub\\WebApplication4\\ShoppingCart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaio.torres\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\kaio.torres\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
