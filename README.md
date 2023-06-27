@@ -1,21 +1,6 @@
 ## **Instruções para configurações e execução do projeto**
 
-### *ProjectCMD*
-
 Instruções:
-
-1- Navegue até a classe DbSettings.cs
-
-2- Na linha 9 substitua <IP DE CONEXÃO DO BANCO> pelo IP do Banco de Dados SQLSERVER
-
-3- Crie a tabelo no Banco de Dados usando o seguinte Script:
-
-*"CREATE TABLE Cars (Car varchar(255),Time int)"*
-
-4- Execute o projeto
-
----
-### *ShoppingCart*
 
 Instruções:
 
